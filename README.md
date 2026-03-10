@@ -14,7 +14,7 @@ Copy or symlink into your project's `.claude/skills/` directory:
 
 ```bash
 # Clone
-git clone https://github.com/aelfalou/canada-tax-skill.git
+git clone https://github.com/abdallahfalou/canada-tax-skill.git
 
 # Symlink into your project
 mkdir -p /path/to/your/project/.claude/skills
