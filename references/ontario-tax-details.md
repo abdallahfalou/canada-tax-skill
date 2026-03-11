@@ -1,5 +1,7 @@
 # Ontario Tax Details — ON428, ON479, ON-BEN
 
+> Sources: ON428 (5006-c), ON479 (5006-tc), Ontario Tax Guide (5006-tg), ON-BEN instructions, Ontario Health Premium (ontario.ca). PDFs archived in `sources/`. See [SOURCES.md](../SOURCES.md) for full list.
+
 ## Ontario Tax Brackets
 
 ### 2024

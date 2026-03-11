@@ -1,5 +1,7 @@
 # Forms & Schedules — Complete Checklist
 
+> Sources: Ontario tax package landing pages (2024/2025), Federal 5000-G guide. See [SOURCES.md](../SOURCES.md) for full list.
+
 ## Federal Forms
 
 | Form/Schedule | Title | When Needed |

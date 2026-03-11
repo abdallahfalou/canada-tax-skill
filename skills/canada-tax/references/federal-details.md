@@ -1,5 +1,7 @@
 # Federal Tax Details — Brackets, Credits, Deductions
 
+> Sources: CRA 5000-G guide (2024/2025), individual CRA line pages (20800–45350), CRA tax rates FAQ. See [SOURCES.md](../SOURCES.md) for full list.
+
 ## Federal Tax Brackets
 
 ### 2024
