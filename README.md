@@ -150,6 +150,64 @@ Your spouse's income of $52,000 is too high for the spouse amount, but medical e
 
 Should I draft your complete filing plan with all the numbers?
 
+> Yes, let's do it.
+
+*calculates federal tax, Ontario tax, all credits...*
+
+Here's your complete 2024 filing plan:
+
+**Income (Line 15000):** $85,342
+
+**Deductions:**
+
+| Line | Item | Amount |
+|---|---|---|
+| 20800 | RRSP | $0 (no contributions) |
+| 22900 | Other deductions | $0 |
+| 22215 | Home office (T777) | $457.80 |
+
+**Net income (Line 23600):** $84,884.20
+
+**Federal tax:**
+
+| Bracket | Rate | Tax |
+|---|---|---|
+| First $55,867 | 15% | $8,380.05 |
+| $55,867 – $84,884 | 20.5% | $5,948.49 |
+| **Total federal tax** | | **$14,328.54** |
+
+**Federal non-refundable credits:**
+
+| Credit | Amount | At 15% |
+|---|---|---|
+| Basic personal | $15,705 | $2,355.75 |
+| Canada employment | $1,368 | $205.20 |
+| CPP/EI contributions | $4,306 | $645.90 |
+| Home buyers' amount | $10,000 | $1,500.00 |
+| Medical (dental + Rx) | $1,680 − 3% of $84,884 = $0 | $0 |
+| **Donations** | $200 at 15% + $2,250 at 29% | $682.50 |
+| **Total credits** | | **$5,389.35** |
+
+**Net federal tax:** $14,328.54 − $5,389.35 = **$8,939.19**
+
+**Ontario tax (ON428):** ~$4,230 (after surtax, minus LIFT credit)
+
+**Estimated total tax:** ~$13,170
+**Tax already deducted (T4):** ~$18,500
+**Estimated refund: ~$5,330**
+
+**ON-BEN (Ontario Trillium Benefit):**
+- Property tax: $3,200 → estimated OTB of ~$490/year, paid monthly starting July 2025
+
+**Forms you need to file:**
+- T1 General
+- Schedule 1 (federal tax)
+- Schedule 9 (donations)
+- T777 (home office)
+- ON428 (Ontario tax)
+- ON479 (Ontario credits)
+- ON-BEN (Trillium application)
+
 ### What the Skill Covers
 
 The skill follows an 11-step workflow:
