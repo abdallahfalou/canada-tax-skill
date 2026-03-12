@@ -97,22 +97,20 @@ I'm filing my 2024 taxes. All my documents are in Tax 2024/. Let's go.
 
 Here's what a typical session looks like (fictional taxpayer):
 
----
+> `/canada-tax`
 
-**You:** `/canada-tax`
-
-**Claude:** I'll help you prepare your 2024 T1 return. Let me start with your profile:
+I'll help you prepare your 2024 T1 return. Let me start with your profile:
 
 - What province did you live in on Dec 31, 2024?
 - What's your marital status?
 - Any dependants (children under 18, elderly parents, disabled relatives)?
 - Did you have any major life changes in 2024 (new home, marriage, new job, move)?
 
-**You:** Ontario. Married, no kids. Bought our first home in June. No other changes. My documents are in the Tax 2024/ folder.
+> Ontario. Married, no kids. Bought our first home in June. No other changes. My documents are in the Tax 2024/ folder.
 
-**Claude:** Congrats on the home! That opens up some credits. Let me review your documents...
+Congrats on the home! That opens up some credits. Let me review your documents...
 
-*[reads T4, T5, donation receipts, utility bills]*
+*reads T4, T5, donation receipts, utility bills*
 
 Based on your T4 and documents, here's what I've found:
 
@@ -134,11 +132,11 @@ Based on your T4 and documents, here's what I've found:
 - Your spouse's net income (affects some credits)
 - CRA Notice of Assessment (for RRSP room)
 
-**You:** Property tax was $3,200. I do work from home — T2200 is in the folder. Spouse made about $52,000.
+> Property tax was $3,200. I do work from home — T2200 is in the folder. Spouse made about $52,000.
 
-**Claude:** Got it. Let me calculate your home office deduction...
+Got it. Let me calculate your home office deduction...
 
-*[reads T2200, utility bills, calculates office percentage]*
+*reads T2200, utility bills, calculates office percentage*
 
 Your office is 120 sq ft of 1,100 sq ft = 10.9%. Based on your utility bills:
 - Hydro: $1,440/year x 10.9% = $156.96
@@ -151,8 +149,6 @@ For ON-BEN, I'll enter your $3,200 property tax to apply for the Ontario Energy 
 Your spouse's income of $52,000 is too high for the spouse amount, but medical expenses should be claimed by whichever of you has the lower net income for a larger credit.
 
 Should I draft your complete filing plan with all the numbers?
-
----
 
 ### What the Skill Covers
 
