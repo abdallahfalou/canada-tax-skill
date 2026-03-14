@@ -167,7 +167,7 @@ Here's your complete 2024 filing plan:
 | Line | Item | Amount |
 |---|---|---|
 | 20800 | RRSP | $6,000.00 |
-| 22215 | Home office (T777) | $457.80 |
+| 22900 | Home office (T777) | $457.80 |
 
 **Net income (Line 23600):** $78,884.20
 
@@ -184,22 +184,22 @@ Here's your complete 2024 filing plan:
 | Credit | Amount | At 15% |
 |---|---|---|
 | Basic personal | $15,705 | $2,355.75 |
-| Canada employment | $1,368 | $205.20 |
-| CPP/EI contributions | $4,306 | $645.90 |
+| Canada employment | $1,433 | $214.95 |
+| CPP/EI contributions | $4,916 | $737.40 |
 | Home buyers' amount | $10,000 | $1,500.00 |
 | Medical (dental + Rx) | $1,680 − 3% of $78,884 = $0 | $0 |
 | **Donations** | $200 at 15% + $2,250 at 29% | $682.50 |
-| **Total credits** | | **$5,389.35** |
+| **Total credits** | | **$5,490.60** |
 
-**Net federal tax:** $13,098.58 − $5,389.35 = **$7,709.23**
+**Net federal tax:** $13,098.58 − $5,490.60 = **$7,607.98**
 
-**Ontario tax (ON428):** ~$3,680 (after surtax, minus LIFT credit)
+**Ontario tax (ON428):** ~$3,470 (after credits, no surtax)
 
-**Estimated total tax:** ~$11,390
+**Estimated total tax:** ~$11,080
 
-**Tax already deducted (T4):** ~$18,500
+**Tax already deducted (T4):** ~$15,200
 
-**Estimated refund: ~$7,110**
+**Estimated refund: ~$4,120**
 
 **ON-BEN (Ontario Trillium Benefit):**
 - Property tax: $3,200 → estimated OTB of ~$490/year, paid monthly starting July 2025
